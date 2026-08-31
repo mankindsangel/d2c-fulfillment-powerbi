@@ -204,7 +204,7 @@ Clone the repository:
 
 ```bash
 
-git clone https://github.com/your-username/d2c-fulfillment-powerbi.git
+git clone https://github.com/mankindsangel/d2c-fulfillment-powerbi.git
 
 cd d2c-fulfillment-powerbi
 
