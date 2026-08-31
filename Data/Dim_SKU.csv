@@ -1,0 +1,60 @@
+SKUID,ProductName,Category,UnitCost,UnitPrice
+1,Apparel Item 1,Apparel,219.07,347.04
+2,Apparel Item 2,Apparel,339.6,641.24
+3,Apparel Item 3,Apparel,536.75,1059.1
+4,Apparel Item 4,Apparel,620.79,1096.62
+5,Apparel Item 5,Apparel,469.53,789.97
+6,Apparel Item 6,Apparel,721.58,1448.26
+7,Apparel Item 7,Apparel,295.8,523.1
+8,Apparel Item 8,Apparel,366.72,604.21
+9,Apparel Item 9,Apparel,658.1,1045.34
+10,Electronics Item 10,Electronics,935.22,1210.05
+11,Electronics Item 11,Electronics,3216.77,4129.73
+12,Electronics Item 12,Electronics,3783.79,4616.82
+13,Electronics Item 13,Electronics,4879.02,5786.18
+14,Electronics Item 14,Electronics,2984.18,3847.63
+15,Electronics Item 15,Electronics,3283.34,4259.96
+16,Electronics Item 16,Electronics,3098.08,3900.32
+17,Electronics Item 17,Electronics,706.21,815.66
+18,Electronics Item 18,Electronics,1802.25,2029.49
+19,Beauty Item 19,Beauty,533.24,1017.68
+20,Beauty Item 20,Beauty,326.71,754.22
+21,Beauty Item 21,Beauty,181.33,342.81
+22,Beauty Item 22,Beauty,435.09,946.6
+23,Beauty Item 23,Beauty,441.77,754.23
+24,Beauty Item 24,Beauty,417.49,846.54
+25,Beauty Item 25,Beauty,222.41,438.2
+26,Home Goods Item 26,Home Goods,1982.19,3030.87
+27,Home Goods Item 27,Home Goods,1246.81,1926.15
+28,Home Goods Item 28,Home Goods,1732.85,2734.93
+29,Home Goods Item 29,Home Goods,689.38,925.11
+30,Home Goods Item 30,Home Goods,836.27,1178.11
+31,Home Goods Item 31,Home Goods,658.67,1082.34
+32,Home Goods Item 32,Home Goods,1789.82,2546.71
+33,Home Goods Item 33,Home Goods,1414.25,2047.69
+34,Sports Item 34,Sports,771.47,990.26
+35,Sports Item 35,Sports,2336.97,3249.61
+36,Sports Item 36,Sports,2342.24,3183.54
+37,Sports Item 37,Sports,1917.19,2570.99
+38,Sports Item 38,Sports,2993.05,3840.94
+39,Sports Item 39,Sports,1683.14,2451.3
+40,Sports Item 40,Sports,2638.87,3395.91
+41,Sports Item 41,Sports,815.95,1169.1
+42,Sports Item 42,Sports,1950.66,2627.91
+43,Kitchenware Item 43,Kitchenware,887.85,1469.13
+44,Kitchenware Item 44,Kitchenware,1319.01,1762.73
+45,Kitchenware Item 45,Kitchenware,1136.94,1755.23
+46,Kitchenware Item 46,Kitchenware,898.06,1264.92
+47,Kitchenware Item 47,Kitchenware,1033.25,1409.1
+48,Kitchenware Item 48,Kitchenware,765.19,1122.08
+49,Kitchenware Item 49,Kitchenware,1439.96,2327.69
+50,Kitchenware Item 50,Kitchenware,542.41,803.68
+51,Kitchenware Item 51,Kitchenware,432.25,705.02
+52,Furniture Item 52,Furniture,6891.69,8905.71
+53,Furniture Item 53,Furniture,2392.38,3013.4
+54,Furniture Item 54,Furniture,2130.84,3014.02
+55,Furniture Item 55,Furniture,7457.04,10470.05
+56,Furniture Item 56,Furniture,5192.61,6685.4
+57,Furniture Item 57,Furniture,1783.07,2241.3
+58,Furniture Item 58,Furniture,7897.25,10833.23
+59,Furniture Item 59,Furniture,2676.17,3288.21

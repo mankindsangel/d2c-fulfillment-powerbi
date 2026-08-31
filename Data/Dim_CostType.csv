@@ -1,0 +1,6 @@
+CostTypeID,CostTypeName
+1,Labor
+2,Storage
+3,Packaging
+4,Last-Mile Shipping
+5,Returns Processing

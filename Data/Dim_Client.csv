@@ -1,0 +1,13 @@
+ClientID,ClientName,ClientTier,Industry,OnboardedDate
+1,Nova Apparel,Enterprise,Apparel,2025-06-13
+2,Zenith Electronics,Enterprise,Electronics,2025-01-29
+3,Bloom Beauty Co,Mid,Beauty,2025-01-07
+4,Peak Performance Gear,Mid,Sports,2025-03-12
+5,Urban Nest Home,Mid,Home Goods,2025-03-04
+6,Sprout Organics,SMB,Food & Grocery,2025-02-27
+7,Velocity Sports,SMB,Sports,2025-02-05
+8,Lumen Lighting,SMB,Home Goods,2025-01-27
+9,Craftline Furniture,SMB,Furniture,2025-06-23
+10,Pixel Gadgets,Mid,Electronics,2025-05-20
+11,Terra Kitchenware,Enterprise,Kitchenware,2025-01-23
+12,Aria Fashion,SMB,Apparel,2025-06-01
